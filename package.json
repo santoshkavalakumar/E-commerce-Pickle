@@ -3,7 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+<<<<<<< HEAD
     "dev": "next dev",
+=======
+    "dev": "next dev --turbopack",
+>>>>>>> 09561fc (project repo)
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
@@ -23,4 +27,8 @@
     "eslint": "^8",
     "eslint-config-next": "15.0.1"
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 09561fc (project repo)
